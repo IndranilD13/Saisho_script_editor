@@ -1,0 +1,13 @@
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\bin\Debug\Saisho Editor.exe
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\bin\Debug\Saisho Editor.pdb
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\obj\Debug\Saisho Editor.csprojAssemblyReference.cache
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\obj\Debug\Saisho_Editor.MainForm.resources
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\obj\Debug\Saisho_Editor.Properties.Resources.resources
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\obj\Debug\Saisho Editor.csproj.GenerateResource.cache
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\obj\Debug\Saisho Editor.csproj.CoreCompileInputs.cache
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\obj\Debug\Saisho Editor.exe
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\obj\Debug\Saisho Editor.pdb
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\obj\Debug\Saisho_Editor.FindForm.resources
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\bin\Debug\Saisho Editor.exe.config
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\obj\Debug\Saisho_Editor.ReplaceForm.resources
+F:\Project\Saisho Editor\Saisho Editor\Saisho Editor\obj\Debug\AboControls.UserControls.NumberedRTB.resources
